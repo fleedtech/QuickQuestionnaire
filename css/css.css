@@ -1,0 +1,176 @@
+
+	body {
+		width: 85%;
+		height: auto;
+		padding: 0;
+		margin: 0;
+		margin: auto;
+		font: 14px/1.5 Arial, Helvetica, sans-serif;
+		color: #747474;
+	}
+
+	body a {
+		text-decoration: none;
+		color: #616161;
+	}
+
+	body a:hover {
+		color: #ccc;
+	}
+
+	header {
+		width: 100%;
+		height: 50px;
+		margin-top: 20px;
+		background-color: red;
+	}
+
+
+
+/*login page ---------------------*/
+	.login_form_content {
+		margin: auto;
+	}
+
+
+	.login_system_name {
+		margin-top: 50px;
+	}
+
+
+
+	.main_menu {
+		float: left;
+		margin-left: 20px;
+		margin-top: 10px;
+		color: #fff;
+	}
+
+	.main_menu td {
+		padding: 5px 10px 5px 10px;
+	}
+
+	.main_menu a {
+		text-decoration: none;
+		color: #fff;
+	}
+
+	.main_menu a:hover {
+		color: #ccc;
+	}
+
+	.system_name {
+		float: right;
+		margin-right: 40px;
+		margin-top: 10px;
+		color: #fff;
+		font: 20px/1.5 Arial, Helvetica, sans-serif;
+	}
+
+
+/* Secont menu ------------------------- */
+
+	.main_container {
+		width: 100%;
+	}
+
+	.second_header_dv {
+		width: 100%;
+		margin-top: 10px;
+		padding: 5px 0px 25px 0px;
+		border-bottom: 1px solid #ccc;
+	}
+
+	.page_title_div {
+		float: left;
+		margin-left: 10px;
+	}
+
+	.add_new_div {
+		float: right;
+		margin-right: 10px;
+	}
+
+
+
+/* body content ----------------------- */
+
+	.body_content {
+		width: 100%;
+		height: auto;
+		margin-top: 15px;
+	}
+
+
+	.body_table {
+		width: 100%;
+	}
+
+
+	.body_table thead {
+		background-color: #dadada;
+		padding: 2px 2px 2px 2px;
+		color: #616161;
+	}
+
+
+	.body_table td {
+		padding: 2px 2px 2px 2px;
+		border-bottom: 1px solid #ccc;
+
+	}
+
+	.body_table a {
+		color: red;
+	}
+
+	
+
+
+
+
+/* on every register page ---------------- */
+
+	.add_new_form_div {
+		width: auto;
+		height: auto;
+	}
+
+	.form_input {
+		width: 280px;
+		padding: 5px 5px 5px 5px;
+		margin: 0px 0px 10px 0px;
+		border: 1px solid #616161;
+		border-radius: 3px;
+	}
+
+
+	.form_submit {
+		width: 290px;
+		padding: 5px 5px 5px 5px;
+		margin: 0px 0px 10px 0px;
+		border: 1px solid #616161;
+		border-radius: 3px;
+		cursor: pointer;
+	}
+
+
+
+/* add questions on questionnaire page ----------- */
+
+	.questionnaire_info_div {
+		margin-bottom: 25px;
+		padding-bottom: 5px;
+		border-bottom: 1px solid #ccc;
+	}
+
+	.create_question_div {
+		margin-bottom: 25px;
+		padding-bottom: 15px;
+		border-bottom: 1px solid #ccc;
+	}
+
+
+	.question_list_div {
+		margin-top: 30px;
+	}
