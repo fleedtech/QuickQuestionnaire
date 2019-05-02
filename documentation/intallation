@@ -1,0 +1,12 @@
+Here are the steps:
+1. Switch on Wamp
+2. In your browser, go to "localhost/phpmyadmin"
+3. In phpmyadmin, create a new database named: quickquestionnaire
+4. While that database is selected, click "Import" in the top menu
+5. The click "Browse" and navigate to where the extracted folder is and navigate to the "database" folder and select the file named "quickquestionnaire" - click Open at the bottom of the dialogue box
+6. Back in the Browser, scroll to the bottom of the page and click "Go" - Wait until the upload has finished. You are supposed to see green green feedback telling u the installation is done
+7. Then copy the extracted folder to C:\wamp64\www
+8. Make sure the"baudoin" is the root folder.. and not a subfolder
+9. Then go the Browser and type in the URL address bar:   http://localhost/baudouin
+
+That's all. 
